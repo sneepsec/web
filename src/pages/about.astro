@@ -11,12 +11,12 @@ import Link from "@components/ui/link.astro";
   <Container>
     <Pagetitle>
       <Fragment slot="title">About</Fragment>
-      <Fragment slot="desc">We are a small passionate team.</Fragment>
+      <Fragment slot="desc">Chúng tôi là những con người đáng eu</Fragment>
     </Pagetitle>
 
     <div class="grid md:grid-cols-3 gap-10 mx-auto max-w-4xl mt-12">
       {
-        authors.slice(0, 3).map((item) => (
+        authors.slice(0, 6).map((item) => (
           <div class="group">
             <div class="w-full aspect-square">
               <Image
@@ -42,9 +42,18 @@ import Link from "@components/ui/link.astro";
 
     <div class="mx-auto max-w-xl text-center mt-14">
       <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-400">
-        We're a multi-cultural team from around the world! We come from diverse
-        backgrounds, bringing different personalities, experiences and skills to
-        the job. This is what makes our team so special.
+        Student English Club (S.E.C) là một tổ chức sinh viên, hoạt động phi lợi
+        nhuận với mong muốn mang đến kiến thức tiếng Anh và tạo ra môi trường
+        giao tiếp tiếng Anh lý tưởng cho mọi thành viên trong CLB, với những
+        hoạt động chủ yếu là chia sẻ kiến thức tiếng anh hàng tuần, đi săn Tây
+        trên Hồ Gươm, Teambuilding... S.E.C được thành lập và đi vào hoạt động
+        từ ngày 24/11/2011 với tiền thân là Sneep English Club trực thuộc BCH –
+        LCĐ sinh viên viện Kỹ thuật Hạt Nhân và Vật lý Môi trường (nay thuộc
+        Viện Vật lý Kỹ thuật) của trường Đại học Bách Khoa Hà Nội. Sau một thời
+        gian hoạt động, nhận thấy có rất nhiều các bạn sinh viên ở trường khác
+        như trường Đại học Kinh tế Quốc Dân, trường đại học Xây Dựng, trường đại
+        học Sư Phạm Hà Nội... có mong muốn tham gia, giao lưu; CLB đã quyết định
+        tách ra khỏi viện Vật lý Kỹ thuật và hoạt động độc lập cho đến ngày nay.
       </p>
       <div class="mt-8">
         <Link href="/contact" style="primary">Get in touch</Link>

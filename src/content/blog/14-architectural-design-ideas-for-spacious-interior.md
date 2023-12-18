@@ -1,22 +1,25 @@
 ---
-title: "14 Architectural Design Ideas for a Spacious Interior"
+title: "The Social Media"
 excerpt: "Ornare cum cursus laoreet sagittis nunc fusce posuere per euismod dis vehicula a, semper fames lacus maecenas dictumst pulvinar neque enim non potenti. Torquent hac sociosqu eleifend potenti."
-publishDate: "2022-12-30T11:39:36.050Z"
-image: "https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=927&h=927"
-category: "lifestyle"
-author: "mario-sanchez"
+publishDate: "2023-12-20T11:39:36.050Z"
+image: "https://www.hrmagazine.co.uk/media/u1zljiee/social-media-mobile-adobestock_226367431.jpeg?width=1002&height=564&bgcolor=White&rnd=133210379424530000"
+category: "topic"
+author: "hung"
 tags: [design, architecture, interior]
 ---
 
 “What’s the meaning of life?” is a cliche philosophical question, but it touches on something fundamental about how humans relate to the world around them. People want to know that there’s significance to their lives, but not necessarily in any grandiose sense. Most of us just want to feel that there’s value in getting up and being active each day. We search for signs that our existence is a net good in the world, even if only on a minuscule scale in the grander scheme of the universe.
 
-In the past, researchers have identified [three important constructs](https://pubmed.ncbi.nlm.nih.gov/30614732/) underlying “meaning in life”. The first is _coherence_, which refers to an ability to make sense of what’s happening in our lives as we build a personal story. The second is _purpose_, which is the feeling that we’re working toward important life goals. The third is _mattering_, which is the belief that our lives matter in the wider context of the world around us.
+<iframe class="aspect-video w-full" src="https://www.youtube.com/embed/qtv7hsloVv0?si=NpEo0MLBAnkD_4bl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+In the past, researchers have identified [three important constructs](https://pubmed.ncbi.nlm.nih.gov/30614732/) underlying “meaning in life”. The first is _coherence_, which refers to an ability to make sense of what’s happening in our lives as we build a personal story. The second is _purpose_, which is the feeling that we’re working toward important life goals. The third is _mattering_, which is the belief that our lives matter in the wider context of the world around us.
 However, new evidence is revealing an overlooked construct, and it may be the most crucial one of all. Researchers are calling it “experiential appreciation”, and it refers to enjoying and appreciating sensations as you experience them — a concept that you may already recognize if you’re familiar with mindfulness.
 
 ![Image](https://cdn.sanity.io/images/cijrdavx/production/4b0860eea675e1ebbb0bf25fbff6db2534cfb611-5184x3348.jpg?w=650&q=75&fit=clip&auto=format)
 
 ## The fourth construct of meaning in life
+
+<audio controls class='w-full'><source src="https://www.highlevellistening.com/wp-content/uploads/2017/02/1Facebook-NewsFeed.mp3" type="audio/mpeg">Your browser does not support the audio tag.</audio>
 
 In a [recently published paper](https://www.nature.com/articles/s41562-021-01283-6.pdf) (February 2022), researchers probed what it means to experience meaning in life. In their first study, they analyzed past survey data from over 11,000 people across 30 countries. These surveys were originally designed to assess coping strategies during the COVID-19 pandemic, but the researchers plucked out individual questions linked to meaning-in-life constructs. Here’s an example for each construct; participants had to rate their agreement with each statement or question below:
 
