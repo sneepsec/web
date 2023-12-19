@@ -49,13 +49,13 @@ Based on the podcast, you may want to practice by making sentences based on your
 
 - ... to promote communication for SEC (possibly a specific organization or group).
 
-## Things on facebook:
+## Things on facebook
 - Bài đăng có nhiều tương tác: Highly engaging/popular/viral post
 - Chủ đề nóng hổi, vấn đề thời sự: hot news, breaking news, topical issue,...
 - Nội dung nhảm nhí, câu like: trashy/low-quality content, like-bait content
 - Những câu chuyện truyền cảm hứng/cảm động/dễ thương: inspiring/motivational/touching/endearing/… stories
 
-## The consequence after the usage process:
+## The consequence after the usage process
 - Dùng FB để giết thời gian: … to pass the time
 - Nghỉ ngơi sau (wind down/have a breather from…) sau khoảng thời gian dài công việc
 - Bị xao nhãng: lose focus/get distracted
