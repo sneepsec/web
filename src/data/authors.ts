@@ -24,7 +24,7 @@ export const authors: Props[] = [
     name: "Vũ Thị Hằng",
     slug: "lehang",
     image: "./src/assets/authors/hang.jpg",
-    bio: "",
+    bio: "Cá sấu là một loại bò sát mạnh bạo, ăn thịt động vật mà nó bắt được. Loài vật này có thể tấn công và bắt những con vật to lớn khoẻ mạnh như trâu bò và có khi là con người  khi vô tình rơi vào phạm vi hoạt động của nó. Do đó người ta xếp cá sấu vào loại động vật hung bạo nguy hiểm. Có một điểm đặc biệt là sau khi nuốt chửng con mồi, khoé mắt cá sấu lại chảy nước tương tự như con người chảy nước mắt khóc thương ai đó...Vì sự tương quan này người ta nghĩ là cá sấu đã khóc cho nạn nhân của nó, kẻ vừa bị nó cướp đi sinh mạng.",
   },
   {
     name: "Nguyễn Quang Anh",
@@ -48,13 +48,13 @@ export const authors: Props[] = [
     name: "Hưng Phạm",
     slug: "hung",
     image: "./src/assets/authors/hung.jpg",
-    bio: "Erika Oliver is a successful entrepreuner. She is the founder of Acme Inc, a bootstrapped business that builds affordable SaaS tools for local news, indie publishers, and other small businesses.",
+    bio: "Sự hưng phấn có thể được mô tả là một cảm giác hạnh phúc tăng cao hoặc cực kỳ tích cực. Đây được coi là đại diện cho mức độ hạnh phúc hoặc mãn nguyện tột độ bất thường, vượt quá mức độ xảy ra trong các phản ứng cảm xúc bình thường. Những người bị trầm cảm lưỡng cực (hưng trầm cảm) trong giai đoạn hưng cảm có thể gặp phải sự hưng phấn.",
   },
   {
-    name: "Lập SEC",
+    name: "Lập Sec",
     slug: "lap",
     image: "./src/assets/authors/lap.jpg",
-    bio: "Đây là bot, không có mô tả",
+    bio: "Đây là bot, được thiết kế để fix bug, rửa bát, nói mớ. Bạn nên cẩn thận vì đôi khi bot bị bug và tự nhận mình là người đẹp trai nhất clb.",
   },
 
 ];

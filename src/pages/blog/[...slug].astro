@@ -11,6 +11,7 @@ import { CollectionEntry, getCollection } from "astro:content";
 
 import type { Author } from "@data/authors";
 import type { Category } from "@data/category";
+import Humanassign from "@components/humanassign.astro";
 
 type Props = CollectionEntry<"blog">;
 
@@ -115,6 +116,7 @@ const category = categories.find(
       <div
         class="mx-auto my-3 prose prose-base dark:prose-invert prose-a:text-blue-600">
         <Content />
+        {post.slug == "the-social-media" && <Humanassign />}
 
         <div class="flex flex-wrap items-center w-full gap-3 md:w-auto">
           {

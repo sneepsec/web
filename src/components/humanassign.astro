@@ -1,0 +1,89 @@
+---
+import SearchableDropdown from "./SearchableDropdown";
+
+const boy_str = `
+Hung Pham
+Quoc Lap
+Wang Sang
+Hoang Dieu
+Thanh Long
+HQV
+Huy Hoang
+`;
+const girl_str = `
+Nguyen Thi Thuy
+Nguyen Thi Thanh
+Vu Thi Hang
+Nguyen Kim Tuyen
+Kim Hanh
+`;
+
+function shuffle(array, seed) {
+  // <-- ADDED ARGUMENT
+  var m = array.length,
+    t,
+    i;
+
+  // While there remain elements to shuffle…
+  while (m) {
+    // Pick a remaining element…
+    i = Math.floor(random(seed) * m--); // <-- MODIFIED LINE
+
+    // And swap it with the current element.
+    t = array[m];
+    array[m] = array[i];
+    array[i] = t;
+    ++seed; // <-- ADDED LINE
+  }
+
+  return array;
+}
+
+function random(seed) {
+  var x = Math.sin(seed++) * 10000;
+  return x - Math.floor(x);
+}
+const boy = shuffle(
+  boy_str.split("\n").filter((item) => item !== ""),
+  42
+);
+const girl = shuffle(
+  girl_str.split("\n").filter((item) => item !== ""),
+  24
+);
+
+const people: string[] = [];
+
+for (let i = 0; i < Math.max(boy.length, girl.length); i++) {
+  if (i < boy.length) people.push(boy[i]);
+  if (i < girl.length) people.push(girl[i]);
+}
+const options = people.map((item, index) => ({
+  id: index,
+  name: item,
+}));
+---
+
+<SearchableDropdown
+  client:load={true}
+  options={options}
+  label={"name"}
+  id={"id"}
+/>
+<!-- <div class="w-full">
+  <input
+    type="text"
+    class="w-full border border-gray-300 rounded-md p-2"
+    placeholder="You are..."
+  />
+  <div class="h-20 flex flex-col overflow-auto">
+    {
+      boy.map((item) => (
+        <div class="inline-block mr-2">
+          <button class="bg-blue-500 text-white rounded-md p-2">{item}</button>
+        </div>
+      ))
+    }
+  </div>
+  <div class="h-2"></div>
+</div> -->
