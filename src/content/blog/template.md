@@ -8,7 +8,7 @@ category: "announcement"
 # remove this line to publish
 draft: true
 # author slug: choose from "./src/data/authors.js"
-author: "wangsang"
+authors: ["wangsang"]
 tags: [tag1, tag2, tag3]
 ---
 

@@ -45,13 +45,13 @@ export const authors: Props[] = [
     bio: "Erika Oliver is a successful entrepreuner. She is the founder of Acme Inc, a bootstrapped business that builds affordable SaaS tools for local news, indie publishers, and other small businesses.",
   },
   {
-    name: "Phạm Thành Hưng",
+    name: "Hưng Phạm",
     slug: "hung",
     image: "./src/assets/authors/hung.jpg",
     bio: "Erika Oliver is a successful entrepreuner. She is the founder of Acme Inc, a bootstrapped business that builds affordable SaaS tools for local news, indie publishers, and other small businesses.",
   },
   {
-    name: "Trần Quốc Lập",
+    name: "Lập SEC",
     slug: "lap",
     image: "./src/assets/authors/lap.jpg",
     bio: "Đây là bot, không có mô tả",
