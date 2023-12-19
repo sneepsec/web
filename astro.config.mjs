@@ -17,5 +17,7 @@ export default defineConfig({
   },
   integrations: [tailwind(), image({
     serviceEntryPoint: "@astrojs/image/sharp"
-  }), mdx(), sitemap(), react()]
+  }), mdx(), sitemap(), react({
+    include: ['**/react/*']
+  })]
 });
