@@ -48,7 +48,13 @@ const makeTitle = title ? title + " | " + "SEC" : "Student English Club";
         },
       }}
     />
-  </head>
+    <script>
+      document.documentElement.classList.remove("light", "dark");
+      document.documentElement.classList.add("light");
+      document.documentElement.setAttribute("data-theme", "light");
+    </script></head
+  >
+
   <body>
     <Navbar />
     <slot />
