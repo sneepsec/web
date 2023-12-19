@@ -65,19 +65,23 @@ const SearchableDropdown = ({ options, label, id, }) => {
   };
 
   const filter = (options, query) => {
-    const post_query = removeVietnameseTones(query.toLowerCase());
-    console.log(post_query);
+    const post_query = removeVietnameseTones(query);
+    if (post_query !== query) {
+      const result = options.filter((option) => option[label].toLowerCase().indexOf(query.toLowerCase()) > -1);
+      if (result.length > 0) {
+        return result
+      }
+    }
     return options.filter(
       (option) => {
         const heeh = removeVietnameseTones(option[label])
-        return heeh.toLowerCase().indexOf(post_query) > -1
+        return heeh.toLowerCase().indexOf(post_query.toLowerCase()) > -1
       }
     );
   };
 
   return (
     <div className="relative">
-      <h1>Free talk</h1>
       <span>Choose your name and see your partner</span>
       <div className="border-2 rounded-md">
         <div className="selected-value">
@@ -115,7 +119,7 @@ const SearchableDropdown = ({ options, label, id, }) => {
       {selectedVal[label] && (
         <div className="flex flex-col w-full items-center">
           <h2>Your partner</h2>
-          <h3 className="pb-8 text-cyan-600">{
+          <h3 className="text-cyan-600">{
             selectedVal.id % 2 == 0 && selectedVal.id == options.length - 1 ?
               selectedVal[label]
               : selectedVal.id % 2 == 0 ?
@@ -124,6 +128,7 @@ const SearchableDropdown = ({ options, label, id, }) => {
           }</h3>
         </div>
       )}
+      <div className="h-8"></div>
     </div>
   );
 };
