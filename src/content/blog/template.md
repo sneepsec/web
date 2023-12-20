@@ -9,11 +9,5 @@ category: "announcement"
 draft: true
 # author slug: choose from "./src/data/authors.js"
 authors: ["wangsang"]
-tags: [tag1, tag2, tag3]
+tags: []
 ---
-
-Your content here
-
-## Write Headings
-
-Some content with [links](#) and more...

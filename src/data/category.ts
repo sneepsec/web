@@ -22,11 +22,11 @@ export const categories: Props[] = [
       "Latest news, announcements, and updates for the English community.",
   },
   {
-    title: "Personal",
-    slug: "personal",
+    title: "Content",
+    slug: "content",
     color: "green",
     description:
-      "Discover tips and strategies for self-improvement, personal development, and achieving your goals, and find resources to help you grow as a person.",
+      "Content of SEC is the king. Read and learn from the best content creators.",
   },
   {
     title: "Travel",
