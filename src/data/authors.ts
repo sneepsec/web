@@ -12,7 +12,7 @@ export const authors: Props[] = [
     name: "Nguyễn Kim Tuyền",
     slug: "tuyen",
     image: "./src/assets/authors/tuyen.jpeg",
-    bio: "Chủ tịch câu lạc bộ SEC. Yêu màu hồng sự giả dối, ghét bị nói là thích chuối mặc dù thích thật.",
+    bio: "Chủ tịch câu lạc bộ SEC. Yêu màu hồng ghét sự giả dối, ghét bị nói là thích chuối mặc dù thích thật.",
   },
   {
     name: "Ngô Quang Sáng",
@@ -30,19 +30,19 @@ export const authors: Props[] = [
     name: "Nguyễn Quang Anh",
     slug: "qa",
     image: "./src/assets/authors/quanganh.jpeg",
-    bio: "Erika Oliver is a successful entrepreuner. She is the founder of Acme Inc, a bootstrapped business that builds affordable SaaS tools for local news, indie publishers, and other small businesses.",
+    bio: "Chưa có mô tả do admin quá bận :((",
   },
   {
     name: "Nguyễn Đức Giang",
     slug: "giang",
     image: "./src/assets/authors/giang.jpg",
-    bio: "Erika Oliver is a successful entrepreuner. She is the founder of Acme Inc, a bootstrapped business that builds affordable SaaS tools for local news, indie publishers, and other small businesses.",
+    bio: "Chưa có mô tả do admin quá bận :((",
   },
   {
     name: "Nguyễn Tử Trọng Minh",
     slug: "giang",
     image: "./src/assets/authors/minh.jpg",
-    bio: "Erika Oliver is a successful entrepreuner. She is the founder of Acme Inc, a bootstrapped business that builds affordable SaaS tools for local news, indie publishers, and other small businesses.",
+    bio: "Chưa có mô tả do admin quá bận :((",
   },
   {
     name: "Hưng Phạm",
