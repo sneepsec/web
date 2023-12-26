@@ -11,3 +11,6 @@ export const latestPosts = (
     new Date(b.data.publishDate).valueOf() -
     new Date(a.data.publishDate).valueOf()
 );
+
+
+export const host = "https://raw.githubusercontent.com/sneepsec/web/main/";
