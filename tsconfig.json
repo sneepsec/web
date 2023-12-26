@@ -3,9 +3,9 @@
   "compilerOptions": {
     "strictNullChecks": true,
     "baseUrl": "src",
-    "types": [
-      "@astrojs/image/client"
-    ],
+    // "types": [
+    //   "@astrojs/image/client"
+    // ],
     "paths": {
       "@lib/*": [
         "lib/*"

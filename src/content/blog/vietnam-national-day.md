@@ -2,7 +2,7 @@
 title: "𝐒𝐄𝐂 𝐂𝐄𝐋𝐄𝐁𝐑𝐀𝐓𝐈𝐎𝐍 | [𝐕𝐢𝐞𝐭𝐧𝐚𝐦𝐞𝐬𝐞 𝐍𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐃𝐚𝐲] 🇻🇳🇻🇳🇻🇳"
 excerpt: "📌 Vietnam is such a compelling country with a rich history. 😉 Let SEC give you a quick rundown of a historical event that took place on the 2nd of September in Vietnam."
 publishDate: "2023-09-02T11:39:36.050Z"
-image: "src/assets/blog-resources/371913105_773226991480890_8036314297417844703_n.jpg"
+image: "../../assets/blog-resources/371913105_773226991480890_8036314297417844703_n.jpg"
 # category slug: choose from "./src/data/category.js"
 category: "content"
 # remove this line to publish

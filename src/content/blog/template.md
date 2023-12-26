@@ -2,7 +2,7 @@
 title: "Title Goes Here"
 excerpt: "Some description"
 publishDate: "2022-12-29T11:39:36.050Z"
-image: "https://images.unsplash.com/[IMAGE-URL]"
+image: "../../assets/blog-resources/5-days-to-paris/cover.jpg"
 # category slug: choose from "./src/data/category.js"
 category: "announcement"
 # remove this line to publish

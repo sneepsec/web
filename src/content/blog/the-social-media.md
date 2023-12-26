@@ -2,7 +2,7 @@
 title: "The Social Media"
 excerpt: "Social media is always an indispensable part of our lives, from chatting and interacting with friends to scrolling through TikTok in our free time, posting Instagram stories, and checking Facebook notifications to see who has commented on our photos. It would be wonderful if we - English learners - could confidently talk about social media without being limited by vocabulary or typical phrases. In this article, we will provide exercises, listening tasks, and videos to help you gain more knowledge on this topic."
 publishDate: "2023-12-20T11:39:36.050Z"
-image: "https://www.hrmagazine.co.uk/media/u1zljiee/social-media-mobile-adobestock_226367431.jpeg?width=1002&height=564&bgcolor=White&rnd=133210379424530000"
+image: "../../assets/blog-resources/5-days-to-paris/cover.jpg"
 category: "topic"
 authors: ["hung", "lap"]
 tags: [topic, socialmedia, freetalk]

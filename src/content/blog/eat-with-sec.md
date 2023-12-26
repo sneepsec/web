@@ -2,7 +2,7 @@
 title: "VÀI NƠI KIẾM THỨ \"BỎ BỤNG\" CHO CÁC HỆ SV BÁCH-KINH-XÂY"
 excerpt: "Các bạn Tân SV đã chuẩn bị thủ tục nhập học tới đâu rồi nhỉ? 🥳 Sắp lên trường thì chắc chắn phải đi tham quan, mà địa điểm ăn uống là thứ không thể thiếu đúng không nè 🥰?  💃Vậy nên dưới đây là vài nơi ăn uống phù hợp cho mọi hệ SV mà SEC-ers chia sẻ cho ad, các bạn có thể tham khảo nhé.😁"
 publishDate: "2022-09-18T11:39:36.050Z"
-image: "src/assets/blog-resources/eat-with-sec/cover.jpg"
+image: "../../assets/blog-resources/eat-with-sec/cover.jpg"
 # category slug: choose from "./src/data/category.js"
 category: "content"
 # remove this line to publish

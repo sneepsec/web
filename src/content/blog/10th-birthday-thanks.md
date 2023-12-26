@@ -3,7 +3,7 @@ title: "Lời cảm ơn - Đại lễ kỉ niệm 10 năm SEC"
 excerpt: "Thân gửi anh chị và các bạn!
 Giờ phút này đây-sau hai ngày hoàn thành Lễ kỉ niệm 10 năm thành lập SEC, chúng em vẫn chưa hết bồi hồi về giây phút ấy.Vì hơn ai hết, chúng em biết rằng, sự kiện này sẽ chẳng bao giờ thành công nếu thiếu đi sự có mặt đông đủ của anh chị và các bạn. Cảm ơn mọi người đã dành cả thanh xuân, tuổi trẻ, nhiệt huyết của mình cho SEC, cảm ơn vì đã đến và xem SEC là một gia đình thực sự, cảm ơn vì sự cống hiến hết mình."
 publishDate: "2022-06-27T11:39:36.050Z"
-image: "src/assets/blog-resources/312126734_3050445321766253_1528598919938848721_n.jpg"
+image: "../../assets/blog-resources/312126734_3050445321766253_1528598919938848721_n.jpg"
 # category slug: choose from "./src/data/category.js"
 category: "announcement"
 # remove this line to publish

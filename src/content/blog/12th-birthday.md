@@ -2,7 +2,7 @@
 title: "𝟏𝟐𝐭𝐡 𝐀𝐍𝐍𝐈𝐕𝐄𝐑𝐒𝐀𝐑𝐘 | ✨ GLORIOUS DAYS (24/11/2011 - 24/11/2023) ✨"
 excerpt: "🎈Bay cao trên đôi cánh của thời gian, SEC của chúng ta đã bước sang tuổi thứ 12! 🎉"
 publishDate: "2023-12-18T11:39:36.050Z"
-image: "src/assets/blog-resources/invitation.png"
+image: "../../assets/blog-resources/invitation.png"
 # category slug: choose from "./src/data/category.js"
 category: "announcement"
 # remove this line to publish

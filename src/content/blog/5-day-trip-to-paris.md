@@ -2,7 +2,7 @@
 title: "My five day-trip to Paris"
 excerpt: "Some description"
 publishDate: "2022-01-29T11:39:36.050Z"
-image: "src/assets/blog-resources/5-days-to-paris/cover.jpg"
+image: "../../assets/blog-resources/5-days-to-paris/cover.jpg"
 # category slug: choose from "./src/data/category.js"
 category: "content"
 # remove this line to publish
