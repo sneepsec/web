@@ -2,7 +2,7 @@
 title: "𝐒𝐄𝐂 𝐂𝐄𝐋𝐄𝐁𝐑𝐀𝐓𝐈𝐎𝐍 | [𝐕𝐢𝐞𝐭𝐧𝐚𝐦𝐞𝐬𝐞 𝐍𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐃𝐚𝐲] 🇻🇳🇻🇳🇻🇳"
 excerpt: "📌 Vietnam is such a compelling country with a rich history. 😉 Let SEC give you a quick rundown of a historical event that took place on the 2nd of September in Vietnam."
 publishDate: "2023-09-02T11:39:36.050Z"
-image: "https://scontent.fhan2-3.fna.fbcdn.net/v/t39.30808-6/371913105_773226991480890_8036314297417844703_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeFQYvyayBQr2EOpscAbzOXysgSyN3ZM7JmyBLI3dkzsmZFGFNsHZ0IGGN_xWL_KJl7PYFBFCkxhmUyL8OPAjziO&_nc_ohc=kb86ujLLawYAX-iQJyi&_nc_ht=scontent.fhan2-3.fna&oh=00_AfCXuPWT5wD9JfWyUoG3lmuCOcZmDJ6mLBV839_TTzAhcg&oe=658688B7"
+image: "src/assets/blog-resources/371913105_773226991480890_8036314297417844703_n.jpg"
 # category slug: choose from "./src/data/category.js"
 category: "content"
 # remove this line to publish

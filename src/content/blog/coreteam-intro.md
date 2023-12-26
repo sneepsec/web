@@ -2,7 +2,7 @@
 title: "GIỚI THIỆU BAN VẬN HÀNH - VỊ TRÍ CORE TEAM"
 excerpt: "Core team là team quan trọng, không thể thiếu của câu lạc bộ. Mỗi ban trong core team đều đảm nhận một vị trí, chức năng khác nhau. Nếu thiếu đi 1 trong các bạn thì câu lạc bộ sẽ không có sự dẫn dắt nhóm, không có sự kết nối và phát triển sâu kĩ năng tiếng Anh giữa các thành viên trong câu lạc bộ, cũng như sự thành công của các sự kiện và hoạt động truyền thông."
 publishDate: "2022-12-29T11:39:36.050Z"
-image: "https://scontent.fhan20-1.fna.fbcdn.net/v/t39.30808-6/312439959_3051677408309711_6172986579824664426_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeGC814VSCcPLKzPvkQ9xg7x6pOXI6V-9ijqk5cjpX72KADXpbXnBDgG7zuiuDc4yL6HY0eWRbIj4yiJVmcdfnPf&_nc_ohc=WEgk-_moBlQAX8r9EKZ&_nc_ht=scontent.fhan20-1.fna&oh=00_AfAxE7QMnQeX6Yix-CL68Y-yKD97WPa7F0WfZGD11tfQkg&oe=6587D3C9"
+image: "src/assets/blog-resources/387131356_797321112404811_3202873173330620784_n.jpg"
 # category slug: choose from "./src/data/category.js"
 category: "announcement"
 # remove this line to publish

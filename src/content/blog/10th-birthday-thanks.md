@@ -3,7 +3,7 @@ title: "Lời cảm ơn - Đại lễ kỉ niệm 10 năm SEC"
 excerpt: "Thân gửi anh chị và các bạn!
 Giờ phút này đây-sau hai ngày hoàn thành Lễ kỉ niệm 10 năm thành lập SEC, chúng em vẫn chưa hết bồi hồi về giây phút ấy.Vì hơn ai hết, chúng em biết rằng, sự kiện này sẽ chẳng bao giờ thành công nếu thiếu đi sự có mặt đông đủ của anh chị và các bạn. Cảm ơn mọi người đã dành cả thanh xuân, tuổi trẻ, nhiệt huyết của mình cho SEC, cảm ơn vì đã đến và xem SEC là một gia đình thực sự, cảm ơn vì sự cống hiến hết mình."
 publishDate: "2022-06-27T11:39:36.050Z"
-image: "https://scontent.fhan2-4.fna.fbcdn.net/v/t39.30808-6/290712423_2945124302298356_6249571837882866238_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeE-dZa5Cg7FZSObAF-3_vm7JC0C1vDqJDkkLQLW8OokOR7P7vIkI7EqD8u08z4-Gv3KhFvdtZ5qkb6fAL-AkwsK&_nc_ohc=gvh4D3DSBAcAX8o8Kex&_nc_ht=scontent.fhan2-4.fna&oh=00_AfAUh0WUToNGmPnaIHiHWnRZ2mUejDsBIQaRByCg8lOMMQ&oe=6586C91C"
+image: "src/assets/blog-resources/312126734_3050445321766253_1528598919938848721_n.jpg"
 # category slug: choose from "./src/data/category.js"
 category: "announcement"
 # remove this line to publish

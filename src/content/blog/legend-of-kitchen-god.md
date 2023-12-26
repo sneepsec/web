@@ -2,7 +2,7 @@
 title: "Sự tích ÔNG TÁO (TÁO QUÂN) – Legend of THE KITCHEN GOD"
 excerpt: "Ngày cúng ông Công, ông Táo hay còn gọi là Tết Táo quân được tổ chức vào ngày 23 tháng Chạp hàng năm theo phong tục của người Việt."
 publishDate: "2023-01-14T11:39:36.050Z"
-image: "https://scontent.fhan2-3.fna.fbcdn.net/v/t39.30808-6/325391342_1157566994937065_611001382367599635_n.png?_nc_cat=108&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeH7OhunbWKP_YIseW1eCVQ3wm40xXMf5T_CbjTFcx_lP7O7WnHiMdgAuacoTJppXHxLNMn_823_OjIqtnI-5OgH&_nc_ohc=_CMpEOywhvQAX_QfLBM&_nc_ht=scontent.fhan2-3.fna&oh=00_AfBVn9bkY1ywwdNmI8zQCiMX5VJYE4RedrYpwc6juRuUoA&oe=65880BC3"
+image: "src/assets/blog-resources/325491509_653360103287456_6764795427602409622_n.jpg"
 # category slug: choose from "./src/data/category.js"
 category: "content"
 # remove this line to publish
